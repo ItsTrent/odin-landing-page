@@ -20,3 +20,8 @@
     justify-content: space-around;
     font-size: 10px;
 }
+
+.header-logo {
+    height: 50px;
+    width: auto;
+}
