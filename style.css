@@ -10,7 +10,7 @@
 }
 
 .header-villian-wrap {
-    background-color: rgb(16, 17, 95);
+    background-color: rgb(0, 217, 255);
 }
 
 .header {
@@ -24,6 +24,7 @@
 .header-logo {
     height: 50px;
     width: auto;
+
 }
 
 .header-links {
