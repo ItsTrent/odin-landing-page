@@ -34,3 +34,32 @@
     padding: 0;
     gap: 10px;
 }
+
+.header-links a {
+    color:white;
+    text-decoration: none;
+}
+
+.villian {
+    display:flex;
+    justify-content: center;
+    margin: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
+.card {
+    align-self: center;
+    margin-right: 0;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: white;
+    padding: 0;
+    margin: 0;
+
+}
+
