@@ -63,3 +63,16 @@ h1 {
 
 }
 
+.villian-text {
+    color:white;
+}
+
+.Sign-Up {
+    background-color: cornflowerblue;
+    color:white;
+    font-weight: 900;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: 0;
+}
+
